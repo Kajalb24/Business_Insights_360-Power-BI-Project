@@ -6,6 +6,8 @@ Welcome to my Power BI Data Analytics project repository! Here, I am excited to 
 
 ## Dashboard Insights
 Home
+![image](https://github.com/Kajalb24/Business_Insights_360-Power-BI-Project/assets/87971828/dea50f01-2f56-4fe3-8345-caf69a6ed9cd)
+
 
 The Power BI dashboard provides a comprehensive view of the hardware company's performance, allowing users to:
 
