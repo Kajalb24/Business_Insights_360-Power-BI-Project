@@ -20,6 +20,11 @@ The Power BI dashboard provides a comprehensive view of the hardware company's p
 The interactive and user-friendly design empowers end-users to explore the data and extract meaningful insights effortlessly.
 
 ## Screenshots
+![image](https://github.com/Kajalb24/Business_Insights_360-Power-BI-Project/assets/87971828/423076d2-2436-487b-963c-c9aefb089e84)
+
+![image](https://github.com/Kajalb24/Business_Insights_360-Power-BI-Project/assets/87971828/7da2da04-214d-4a25-a201-4b896b46261e)
+
+
 
 ## Public Report Dashboard
 🔗 Public Report Link: https://lnkd.in/eRZ8SBTd
